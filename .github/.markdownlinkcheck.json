@@ -1,6 +1,9 @@
 {
     "ignorePatterns": [
         {
+            "pattern": "http://127.0.0.1:8000/"
+        },
+        {
             "pattern": "https://cra0.net/public/bin-published/Titanfall_VPKTool3.4_Portable.zip"
         },
         {
