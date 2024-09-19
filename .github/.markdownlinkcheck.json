@@ -1,6 +1,9 @@
 {
     "ignorePatterns": [
         {
+            "pattern": "https://cra0.net/public/bin-published/Titanfall_VPKTool3.4_Portable.zip"
+        },
+        {
             "pattern": "https://crates.io/crates/rrplug"
         }
     ]
